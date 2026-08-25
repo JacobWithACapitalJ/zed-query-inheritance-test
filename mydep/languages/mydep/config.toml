@@ -1,0 +1,3 @@
+name = "MyDep"
+grammar = "json"
+path_suffixes = ["mydep"]

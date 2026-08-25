@@ -1,0 +1,2 @@
+; inherits: json
+(true) @keyword

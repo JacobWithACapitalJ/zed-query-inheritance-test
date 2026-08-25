@@ -1,0 +1,3 @@
+name = "MyBase"
+grammar = "json"
+path_suffixes = ["mybase"]

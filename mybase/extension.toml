@@ -1,0 +1,7 @@
+id = "query-inheritance-test-base"
+name = "Query Inheritance Test: Base"
+version = "0.0.1"
+schema_version = 1
+authors = ["Jacob Ashe <jacobphillipashe@googlemail.com>"]
+description = "Base language for end-to-end testing of Zed's query inheritance (`; inherits:`) support"
+repository = "https://github.com/JacobWithACapitalJ/zed-query-inheritance-test"

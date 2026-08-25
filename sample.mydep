@@ -1,0 +1,12 @@
+{
+  "name": "query inheritance test",
+  "count": 42,
+  "ratio": 3.14,
+  "enabled": true,
+  "disabled": false,
+  "nothing": null,
+  "nested": {
+    "values": [1, 2, 3],
+    "labels": ["a", "b", "c"]
+  }
+}
