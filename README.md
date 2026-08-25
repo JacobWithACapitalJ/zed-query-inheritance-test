@@ -2,7 +2,7 @@
 
 Two dev extensions for end-to-end testing of Zed's tree-sitter query
 inheritance (`; inherits:` comments in query files), proposed in
-[zed-industries/zed PR: language: Add query inheritance via inherits comments](https://github.com/zed-industries/zed/pulls).
+[zed-industries/zed PR: language: Add query inheritance via inherits comments](https://github.com/zed-industries/zed/pull/63194).
 
 - **`mybase/`** provides the language `MyBase` (`.mybase` files) whose
   `highlights.scm` starts with `; inherits: json` — pulling in the built-in
